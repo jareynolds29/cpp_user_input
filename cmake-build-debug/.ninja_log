@@ -1,0 +1,13 @@
+# ninja log v5
+1	425	6976158061073293	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+428	613	6976158062878264	04_user_input.exe	c37bbb91e7b82e46
+3	414	6976159495410304	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+415	568	6976159496900432	04_user_input.exe	c37bbb91e7b82e46
+4	438	6976159965430797	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+439	590	6976159966905824	04_user_input.exe	c37bbb91e7b82e46
+4	449	6976163465450831	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+450	607	6976163466950791	04_user_input.exe	c37bbb91e7b82e46
+3	417	6976163682206270	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+418	578	6976163683771200	04_user_input.exe	c37bbb91e7b82e46
+3	420	6976164033829528	CMakeFiles/04_user_input.dir/main.cpp.obj	46aa6cfcb21ade5c
+421	595	6976164035529477	04_user_input.exe	c37bbb91e7b82e46

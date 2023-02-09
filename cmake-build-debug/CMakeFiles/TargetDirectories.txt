@@ -1,0 +1,3 @@
+C:/Users/jarey/CLionProjects/04_user_input/cmake-build-debug/CMakeFiles/04_user_input.dir
+C:/Users/jarey/CLionProjects/04_user_input/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jarey/CLionProjects/04_user_input/cmake-build-debug/CMakeFiles/rebuild_cache.dir
